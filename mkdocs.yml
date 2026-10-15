@@ -99,21 +99,29 @@ nav:
     - Критерий и оценка: proposal/01-mobile-ar/criterion.md
     - Матрица соответствия: proposal/01-mobile-ar/compliance.md
     - Материалы заявки: proposal/01-mobile-ar/result.md
+    - 'Приложение: Блок-схемы': proposal/01-mobile-ar/flowcharts.md
   - 2. AR-маршруты:
     - Критерий и оценка: proposal/02-ar-routes/criterion.md
     - Матрица соответствия: proposal/02-ar-routes/compliance.md
     - Материалы заявки: proposal/02-ar-routes/result.md
+    - 'Приложение: Блок-схемы': proposal/02-ar-routes/flowcharts.md
   - 3. Билетный контур и квесты:
     - Критерий и оценка: proposal/03-tickets-quests/criterion.md
     - Матрица соответствия: proposal/03-tickets-quests/compliance.md
     - Материалы заявки: proposal/03-tickets-quests/result.md
+    - 'Приложение: Блок-схемы': proposal/03-tickets-quests/flowcharts.md
   - 4. Викторины:
     - Критерий и оценка: proposal/04-quizzes/criterion.md
     - Матрица соответствия: proposal/04-quizzes/compliance.md
     - Материалы заявки: proposal/04-quizzes/result.md
+    - 'Приложение: Блок-схемы': proposal/04-quizzes/flowcharts.md
   - 5. Дизайн главной страницы:
     - Критерий и оценка: proposal/05-homepage-design/criterion.md
     - Матрица соответствия: proposal/05-homepage-design/compliance.md
     - Материалы заявки: proposal/05-homepage-design/result.md
+    - 'Приложение: Макеты': proposal/05-homepage-design/mockups.md
 extra_javascript:
 - javascripts/document-redirects.js
+- javascripts/source-previews.js
+hooks:
+- hooks/source_references.py

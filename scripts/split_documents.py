@@ -102,7 +102,7 @@ def write_documents(documents):
     source_sections={'Главная', 'Техническое задание', 'Порядок оценки'}
     other_sections=[entry for entry in config.get('nav',[]) if not source_sections.intersection(entry)]
     config['nav']=[{'Главная':'index.md'}]+nav+other_sections
-    config['extra_javascript']=['javascripts/document-redirects.js']
+    config['extra_javascript']=list(dict.fromkeys(['javascripts/document-redirects.js']+config.get('extra_javascript',[])))
     for feature in ['navigation.indexes','navigation.path','navigation.footer']:
         if feature not in config['theme']['features']:config['theme']['features'].append(feature)
     (ROOT/'mkdocs.yml').write_text(yaml.safe_dump(config,allow_unicode=True,sort_keys=False))

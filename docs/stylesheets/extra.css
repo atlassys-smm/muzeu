@@ -40,3 +40,24 @@
 @media screen and (max-width: 59.984375em) {
   .proposal-nav { padding-top: 1rem; }
 }
+
+.source-reference::after { content: " ↗"; font-size: .75em; opacity: .65; white-space: nowrap; }
+.source-preview {
+  position: fixed;
+  z-index: 20;
+  width: min(32rem, calc(100vw - 24px));
+  max-height: min(28rem, 65vh);
+  overflow: auto;
+  padding: 1rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .35rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  box-shadow: var(--md-shadow-z3);
+  font-size: .75rem;
+  line-height: 1.5;
+}
+.source-preview[hidden] { display: none; }
+.source-preview strong { display: block; }
+.source-preview p { margin: .65rem 0; white-space: normal; }
+.source-preview a { color: var(--md-typeset-a-color); }
