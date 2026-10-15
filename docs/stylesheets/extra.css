@@ -7,3 +7,36 @@
 .md-typeset td p:last-child { margin-bottom: 0; }
 .md-typeset img { max-width: 100%; height: auto; }
 .md-typeset math { font-size: 1.1em; }
+
+/* Keep the proposal outline visible on landing and proposal pages. */
+.proposal-nav { font-size: .7rem; line-height: 1.45; padding: 0 .7rem; }
+.proposal-nav ul { list-style: none; margin: 0; padding: 0; }
+.proposal-nav__heading { display: block; font-weight: 700; margin-bottom: .6rem; }
+.proposal-nav__group { margin-top: .8rem; }
+.proposal-nav__group > span { display: block; font-weight: 600; }
+.proposal-nav__group > ul { padding-left: .6rem; }
+.proposal-nav a { display: block; padding: .2rem 0; color: var(--md-default-fg-color); }
+.proposal-nav a:hover, .proposal-nav a[aria-current="page"] { color: var(--md-typeset-a-color); }
+@media screen and (min-width: 60em) {
+  .md-tabs { display: block; }
+  [dir=ltr] .proposal-sidebar {
+    left: auto;
+    position: sticky;
+    top: 4.8rem;
+    height: auto;
+    width: 15rem;
+    transform: none;
+    z-index: 1;
+    box-shadow: none;
+  }
+  .proposal-sidebar .md-sidebar__scrollwrap {
+    position: relative;
+    margin: 0 .2rem;
+    overflow-y: auto;
+    max-height: calc(100vh - 6rem);
+  }
+  body:has(.proposal-sidebar) .md-header__button[for="__drawer"] { display: none; }
+}
+@media screen and (max-width: 59.984375em) {
+  .proposal-nav { padding-top: 1rem; }
+}

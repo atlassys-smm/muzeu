@@ -99,7 +99,9 @@ def write_documents(documents):
     js+='function redirectDocumentAnchor() {\n  const target = documentRedirects[location.pathname]?.[decodeURIComponent(location.hash)];\n  if (target) location.replace(target);\n}\nredirectDocumentAnchor();\nwindow.addEventListener("hashchange", redirectDocumentAnchor);\n'
     (scripts/'document-redirects.js').write_text(js)
     config=yaml.safe_load((ROOT/'mkdocs.yml').read_text())
-    config['nav']=[{'Главная':'index.md'}]+nav
+    source_sections={'Главная', 'Техническое задание', 'Порядок оценки'}
+    other_sections=[entry for entry in config.get('nav',[]) if not source_sections.intersection(entry)]
+    config['nav']=[{'Главная':'index.md'}]+nav+other_sections
     config['extra_javascript']=['javascripts/document-redirects.js']
     for feature in ['navigation.indexes','navigation.path','navigation.footer']:
         if feature not in config['theme']['features']:config['theme']['features'].append(feature)

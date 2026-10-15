@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% block site_nav %}
+  {% if page and (page.is_homepage or page.url.startswith('proposal/')) %}
+    <div class="md-sidebar md-sidebar--primary proposal-sidebar" data-md-component="sidebar" data-md-type="navigation">
+      <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner">
+          <nav class="proposal-nav" aria-label="Структура предложения">
+            <label class="proposal-nav__heading" for="__drawer">Предложение</label>
+            {% for section in nav.items if section.title == 'Предложение' %}
+              <ul>
+                {% for entry in section.children %}
+                  {% if entry.children %}
+                    <li class="proposal-nav__group">
+                      <span>{{ entry.title }}</span>
+                      <ul>
+                        {% for child in entry.children %}
+                          <li><a href="{{ child.url | url }}"{% if child.active %} aria-current="page"{% endif %}>{{ child.title }}</a></li>
+                        {% endfor %}
+                      </ul>
+                    </li>
+                  {% else %}
+                    <li><a href="{{ entry.url | url }}"{% if entry.active %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
+                  {% endif %}
+                {% endfor %}
+              </ul>
+            {% endfor %}
+          </nav>
+        </div>
+      </div>
+    </div>
+  {% else %}
+    {{ super() }}
+  {% endif %}
+{% endblock %}
