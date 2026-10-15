@@ -1,0 +1,20 @@
+[
+  {
+    "source": "Приложение № 1 к извещению Техническое_задание_на_цифровую_экосистему_Музея_23_09_2026.docx",
+    "sha256": "dbebdf762f38c929c0c4d67be7f656ae84bf1fb9a8e50afe41990e5600423575",
+    "page": "technical-specification",
+    "text_characters": 218338,
+    "tables": 36,
+    "math": 5,
+    "images": 1
+  },
+  {
+    "source": "Приложение № 5 к извещению Порядок оценки заявок.docx",
+    "sha256": "b751f42ddca653b0c56da8ebaf07a31a3a174d7a516b4241ca4802af9b515435",
+    "page": "evaluation",
+    "text_characters": 24706,
+    "tables": 4,
+    "math": 0,
+    "images": 5
+  }
+]

@@ -1,0 +1,9 @@
+.md-grid { max-width: 96rem; }
+.md-typeset table { border-collapse: collapse; width: 100%; font-size: .78rem; }
+.md-typeset th, .md-typeset td { border: 1px solid var(--md-default-fg-color--lightest); padding: .6em .8em; vertical-align: top; min-width: 6rem; }
+.md-typeset th { background: var(--md-default-fg-color--lightest); }
+.source-table { overflow-x: auto; margin: 1.5em 0; }
+.md-typeset td p:first-child { margin-top: 0; }
+.md-typeset td p:last-child { margin-bottom: 0; }
+.md-typeset img { max-width: 100%; height: auto; }
+.md-typeset math { font-size: 1.1em; }
