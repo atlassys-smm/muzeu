@@ -16,6 +16,7 @@ def source_text(root):
 
 def main():
     records=[]
+    documents={}
     for file in sorted((ROOT/'documents').glob('*.docx')):
         slug = 'evaluation' if '№ 5' in file.name else 'technical-specification'
         media = f'docs/assets/{slug}'
@@ -50,7 +51,7 @@ def main():
                 entries.append(f'- [{label}](#section-{idx})')
             navigation='\n'.join(entries)+'\n\n'
         output=f'# {title}\n\n'+navigation+'<!-- source-content:start -->\n'+str(soup)+'\n<!-- source-content:end -->\n'
-        (ROOT/'docs'/f'{slug}.md').write_text(output)
+        documents[slug]=output
         with zipfile.ZipFile(file) as z:
             root=ET.fromstring(z.read('word/document.xml'))
             for name in ('word/footnotes.xml','word/endnotes.xml'):
@@ -60,6 +61,8 @@ def main():
             text=normalized(source_text(root))
             (ROOT/'verification'/f'{slug}.txt').write_text(text)
             records.append({'source':file.name,'sha256':hashlib.sha256(file.read_bytes()).hexdigest(),'page':slug,'text_characters':len(text),'tables':len(root.findall('.//{'+W+'}tbl')),'math':len(root.findall('.//{http://schemas.openxmlformats.org/officeDocument/2006/math}oMath')),'images':len(soup.select('img'))})
+    from split_documents import write_documents
+    write_documents(documents)
     (ROOT/'verification/sources.json').write_text(json.dumps(records,ensure_ascii=False,indent=2)+'\n')
 
 if __name__=='__main__':main()

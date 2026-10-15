@@ -6,24 +6,90 @@ theme:
   language: ru
   font: false
   features:
-    - navigation.tabs
-    - navigation.top
-    - search.suggest
-    - search.highlight
-    - content.code.copy
+  - navigation.tabs
+  - navigation.top
+  - search.suggest
+  - search.highlight
+  - content.code.copy
+  - navigation.indexes
+  - navigation.path
+  - navigation.footer
 plugins:
-  - search:
-      lang: ru
+- search:
+    lang: ru
 markdown_extensions:
-  - tables
-  - attr_list
-  - md_in_html
-  - toc:
-      permalink: true
-      toc_depth: 4
+- tables
+- attr_list
+- md_in_html
+- toc:
+    permalink: true
+    toc_depth: 4
 extra_css:
-  - stylesheets/extra.css
+- stylesheets/extra.css
 nav:
-  - Главная: index.md
-  - Техническое задание: technical-specification.md
-  - Порядок оценки: evaluation.md
+- Главная: index.md
+- Техническое задание:
+  - Оглавление: technical-specification.md
+  - 1. Общие положения: technical-specification/01.md
+  - 2. Правовые и стратегические основания: technical-specification/02.md
+  - 3. Исходное состояние и объект автоматизации: technical-specification/03.md
+  - 4. Назначение, цели и ожидаемые результаты: technical-specification/04.md
+  - 5. Принципы создания Экосистемы: technical-specification/05.md
+  - 6. Состав и границы Экосистемы: technical-specification/06.md
+  - 7. Пользователи, роли и права доступа: technical-specification/07.md
+  - 8. Обязательные сквозные сценарии: technical-specification/08.md
+  - 9. Функциональные требования:
+    - Обзор: technical-specification/09.md
+    - 9.1. Основной сайт: technical-specification/09-01.md
+    - 9.2. Система управления контентом: technical-specification/09-02.md
+    - 9.3. Регистрация, авторизация и профиль: technical-specification/09-03.md
+    - 9.4. Единый личный кабинет: technical-specification/09-04.md
+    - 9.5. Билетный контур: technical-specification/09-05.md
+    - 9.6. Интернет-магазин: technical-specification/09-06.md
+    - 9.7 Сайт Фонда: technical-specification/09-07.md
+    - 9.8. Мобильное приложение: technical-specification/09-08.md
+    - 9.9. Программа лояльности: technical-specification/09-09.md
+    - 9.10. Игровые механики, AR и аудиогиды: technical-specification/09-10.md
+    - 9.11. Обращения, чат и CRM: technical-specification/09-11.md
+    - 9.12. Уведомления: technical-specification/09-12.md
+    - 9.13. Аналитика и отчетность: technical-specification/09-13.md
+  - 10. Требования к данным и миграции: technical-specification/10.md
+  - 11. Требования к архитектуре интеграционного взаимодействия и данным: technical-specification/11.md
+  - 12. Технологические требования: technical-specification/12.md
+  - 13. Дизайн-система, интерфейсы и доступность: technical-specification/13.md
+  - 14. Нефункциональные и эксплуатационные требования: technical-specification/14.md
+  - 15. Информационная безопасность и персональные данные:
+    - Обзор: technical-specification/15.md
+    - 15.1 Определение применимых требований: technical-specification/15-01.md
+    - 15.2 Требования к защите информации при выполнении работ: technical-specification/15-02.md
+    - 15.3 Требования к обеспечению безопасности разработки исходного кода ПО системы: technical-specification/15-03.md
+    - 15.4. Персональные данные и согласия: technical-specification/15-04.md
+    - 15.5 Требования к оплате и фискализации: technical-specification/15-05.md
+    - 15.6. Приемка безопасности: technical-specification/15-06.md
+    - 15.7. Пользовательские юридические документы и правовые тексты: technical-specification/15-07.md
+  - 16. Организация выполнения Работ: technical-specification/16.md
+  - 17. Календарный план и контрольные точки выполнения Работ: technical-specification/17.md
+  - 18. Испытания и приемка: technical-specification/18.md
+  - 19. Документация и результаты, передаваемые Заказчику: technical-specification/19.md
+  - 20. Интеллектуальные права, лицензии и учетные записи: technical-specification/20.md
+  - 21. Гарантийные обязательства и сопровождение: technical-specification/21.md
+  - 22. Исключения, допущения и зависимости: technical-specification/22.md
+  - Приложение № 1. Матрица сквозных сценариев, приёмочных проверок и доказательств: technical-specification/appendix-01.md
+  - Приложение № 2. Матрица ответственности по данным: technical-specification/appendix-02.md
+  - Приложение № 3. Требования к дизайн-исходникам: technical-specification/appendix-03.md
+  - Приложение № 4. Состав отчетности по контрольной точке: technical-specification/appendix-04.md
+  - Приложение № 5. Перечень нормативных правовых и нормативных технических актов: technical-specification/appendix-05.md
+  - Приложение № 6. Функциональная матрица Экосистемы: technical-specification/appendix-06.md
+  - Приложение № 7. Матрица ролей: technical-specification/appendix-07.md
+  - Приложение № 8. Матрица интеграций: technical-specification/appendix-08.md
+  - Приложение № 9. Минимальный каталог событий аналитики: technical-specification/appendix-09.md
+  - Приложение № 10. Форма реестра внешних компонентов и зависимостей: technical-specification/appendix-10.md
+  - Приложение № 11. Матрица миграции и первичного наполнения: technical-specification/appendix-11.md
+  - Приложение № 12. Матрица уведомлений: technical-specification/appendix-12.md
+- Порядок оценки:
+  - Оглавление: evaluation.md
+  - I. Информация о заказчике и закупке: evaluation/01.md
+  - II. Критерии и показатели оценки: evaluation/02.md
+  - III. Отдельные положения о применении критериев оценки: evaluation/03.md
+extra_javascript:
+- javascripts/document-redirects.js

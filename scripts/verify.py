@@ -5,9 +5,17 @@ from bs4 import BeautifulSoup
 import markdown
 ROOT=Path(__file__).resolve().parents[1]
 def norm(t):return re.sub(r'\s+','',t).replace('\ufe0e','')
+pages=json.loads((ROOT/'verification/pages.json').read_text())
 for record in json.loads((ROOT/'verification/sources.json').read_text()):
     slug=record['page']
-    md=(ROOT/'docs'/f'{slug}.md').read_text().split('<!-- source-content:start -->')[1].split('<!-- source-content:end -->')[0]
+    parts=[]
+    for page in pages[slug]:
+        page_md=(ROOT/'docs'/page).read_text()
+        part=page_md.split('<!-- source-content:start -->')[1].split('<!-- source-content:end -->')[0]
+        for image in BeautifulSoup(part,'html.parser').select('img'):
+            assert (ROOT/'docs'/image['src'].lstrip('/')).is_file(),image['src']
+        parts.append(part)
+    md='\n\n'.join(parts)
     html=markdown.markdown(md,extensions=['tables','attr_list','md_in_html'])
     soup=BeautifulSoup(html,'html.parser')
     for math in soup.select('math'):math.decompose()
@@ -18,8 +26,6 @@ for record in json.loads((ROOT/'verification/sources.json').read_text()):
     full=BeautifulSoup(html,'html.parser')
     assert len(full.select('math'))==record['math'],f'{slug}: formula count differs'
     assert len(full.select('img'))==record['images'],f'{slug}: image count differs'
-    for image in full.select('img'):
-        assert (ROOT/'docs'/image['src']).is_file(),image['src']
     source=ROOT/'documents'/record['source']
     if source.exists():assert hashlib.sha256(source.read_bytes()).hexdigest()==record['sha256']
     print(f'PASS {slug}: {len(expected)} characters, {record["tables"]} tables, {record["math"]} MathML formulas, {record["images"]} images')
