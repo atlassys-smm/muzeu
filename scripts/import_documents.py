@@ -31,6 +31,13 @@ def main():
         for table in list(soup.select('table')):
             wrap=soup.new_tag('div',attrs={'class':'source-table'})
             table.wrap(wrap)
+        # Stable links used by the proposal review pages.
+        if slug=='evaluation':
+            for row in soup.select('tr'):
+                cells=row.find_all('td',recursive=False)
+                if cells:
+                    match=re.fullmatch(r'2\.1\.([1-5])\.?',cells[0].get_text(strip=True))
+                    if match:row['id']=f'quality-{match[1]}'
         # Use real source headings for MkDocs TOC, retaining Pandoc anchor identifiers.
         for heading in list(soup.find_all(re.compile('^h[1-6]$'))):
             if not heading.get_text().strip():
