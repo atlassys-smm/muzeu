@@ -1,0 +1,222 @@
+{
+  "eventTypes": [
+    {
+      "id": "exhibition",
+      "label": "Выставка"
+    },
+    {
+      "id": "tour",
+      "label": "Экскурсия"
+    },
+    {
+      "id": "performance",
+      "label": "Спектакль"
+    },
+    {
+      "id": "workshop",
+      "label": "Мастер-класс"
+    },
+    {
+      "id": "exposition",
+      "label": "Экспозиция"
+    }
+  ],
+  "eventTabs": [
+    "all",
+    "exhibition",
+    "tour",
+    "performance"
+  ],
+  "productCategories": [
+    {
+      "id": "81",
+      "label": null,
+      "url": null,
+      "labelStatus": "unconfirmed",
+      "urlStatus": "unconfirmed"
+    },
+    {
+      "id": "aksessuary",
+      "label": "Аксессуары",
+      "url": "https://shop.bakhrushinmuseum.ru/product-category/aksessuary/",
+      "labelStatus": "published",
+      "urlStatus": "published"
+    },
+    {
+      "id": "catalogs",
+      "label": "Каталоги",
+      "url": null,
+      "labelStatus": "editorial",
+      "urlStatus": "unconfirmed"
+    },
+    {
+      "id": "detskiye-futbolki",
+      "label": "Детские футболки",
+      "url": null,
+      "labelStatus": "editorial",
+      "urlStatus": "unconfirmed"
+    },
+    {
+      "id": "futbolki",
+      "label": "Футболки",
+      "url": null,
+      "labelStatus": "editorial",
+      "urlStatus": "unconfirmed"
+    },
+    {
+      "id": "knigi",
+      "label": "Книги",
+      "url": "https://shop.bakhrushinmuseum.ru/product-category/knigi/",
+      "labelStatus": "published",
+      "urlStatus": "published"
+    },
+    {
+      "id": "melochi",
+      "label": "Мелочи",
+      "url": null,
+      "labelStatus": "editorial",
+      "urlStatus": "unconfirmed"
+    },
+    {
+      "id": "odezhda",
+      "label": "Одежда",
+      "url": "https://shop.bakhrushinmuseum.ru/product-category/odezhda/",
+      "labelStatus": "published",
+      "urlStatus": "published"
+    },
+    {
+      "id": "odezhda-dlya-detej",
+      "label": "Одежда для детей",
+      "url": null,
+      "labelStatus": "editorial",
+      "urlStatus": "unconfirmed"
+    },
+    {
+      "id": "odezhda-dlya-vzroslykh",
+      "label": "Одежда для взрослых",
+      "url": null,
+      "labelStatus": "editorial",
+      "urlStatus": "unconfirmed"
+    },
+    {
+      "id": "otkrytki",
+      "label": "Открытки",
+      "url": null,
+      "labelStatus": "editorial",
+      "urlStatus": "unconfirmed"
+    },
+    {
+      "id": "pled",
+      "label": "Пледы",
+      "url": null,
+      "labelStatus": "editorial",
+      "urlStatus": "unconfirmed"
+    },
+    {
+      "id": "podushki",
+      "label": "Подушки",
+      "url": null,
+      "labelStatus": "editorial",
+      "urlStatus": "unconfirmed"
+    },
+    {
+      "id": "postery",
+      "label": "Постеры",
+      "url": null,
+      "labelStatus": "editorial",
+      "urlStatus": "unconfirmed"
+    },
+    {
+      "id": "shoppery",
+      "label": "Шопперы",
+      "url": null,
+      "labelStatus": "editorial",
+      "urlStatus": "unconfirmed"
+    },
+    {
+      "id": "sumki",
+      "label": "Сумки",
+      "url": null,
+      "labelStatus": "editorial",
+      "urlStatus": "unconfirmed"
+    },
+    {
+      "id": "suveniry",
+      "label": "Сувениры",
+      "url": "https://shop.bakhrushinmuseum.ru/product-category/suveniry/",
+      "labelStatus": "published",
+      "urlStatus": "published"
+    },
+    {
+      "id": "svitshot",
+      "label": "Свитшоты",
+      "url": null,
+      "labelStatus": "editorial",
+      "urlStatus": "unconfirmed"
+    },
+    {
+      "id": "tovary-dlya-doma",
+      "label": "Товары для дома",
+      "url": "https://shop.bakhrushinmuseum.ru/product-category/tovary-dlya-doma/",
+      "labelStatus": "published",
+      "urlStatus": "published"
+    },
+    {
+      "id": "tvorchestvo",
+      "label": "Творчество",
+      "url": null,
+      "labelStatus": "editorial",
+      "urlStatus": "unconfirmed"
+    }
+  ],
+  "productTabs": [
+    "all",
+    "odezhda",
+    "aksessuary",
+    "suveniry"
+  ],
+  "languages": [
+    {
+      "id": "ru",
+      "label": "RU",
+      "url": "https://www.bakhrushinmuseum.ru/"
+    },
+    {
+      "id": "en",
+      "label": "EN",
+      "url": "https://www.bakhrushinmuseum.ru/en/main/"
+    }
+  ],
+  "placeBadges": [
+    {
+      "id": "step-free",
+      "label": "Вход без ступеней",
+      "status": "proposed"
+    },
+    {
+      "id": "lift",
+      "label": "Лифт",
+      "status": "proposed"
+    },
+    {
+      "id": "accessible-toilet",
+      "label": "Доступный туалет",
+      "status": "proposed"
+    },
+    {
+      "id": "cloakroom",
+      "label": "Гардероб",
+      "status": "proposed"
+    },
+    {
+      "id": "cafe",
+      "label": "Кафе",
+      "status": "proposed"
+    },
+    {
+      "id": "shop",
+      "label": "Магазин",
+      "status": "proposed"
+    }
+  ]
+}

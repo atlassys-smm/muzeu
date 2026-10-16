@@ -1,0 +1,71 @@
+[
+  {
+    "id": "Р-Н-01",
+    "title": "Бахрушинский музей представил выставку «Эффект Оперы Зимина» к 150-летию основателя Частной оперы",
+    "url": "https://www.bakhrushinmuseum.ru/2026/10/08/bahrushinskij-muzej-predstavil-vystavku-effekt-opery-zimina-k-150-letiyu-osnovatelya-chastnoj-opery/",
+    "publishedOn": "2026-10-08",
+    "image": {
+      "src": "assets/content/news-01.jpg",
+      "alt": "Бахрушинский музей представил выставку «Эффект Оперы Зимина» к 150-летию основателя Частной оперы",
+      "sourceUrl": "https://www.bakhrushinmuseum.ru/wp-content/uploads/2026/10/img_5071.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 3803,
+      "height": 3803
+    },
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/2026/10/08/bahrushinskij-muzej-predstavil-vystavku-effekt-opery-zimina-k-150-letiyu-osnovatelya-chastnoj-opery/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "Р-Н-02",
+    "title": "Бахрушинский музей принимает участников 14 сезона Олимпиады «Музеи. Парки. Усадьбы»",
+    "url": "https://www.bakhrushinmuseum.ru/2026/10/02/bahrushinskij-muzej-prinimaet-uchastnikov-14-sezona-olimpiady-muzei-parki-usadby/",
+    "publishedOn": "2026-10-02",
+    "image": {
+      "src": "assets/content/news-02.jpg",
+      "alt": "Бахрушинский музей принимает участников 14 сезона Олимпиады «Музеи. Парки. Усадьбы»",
+      "sourceUrl": "https://www.bakhrushinmuseum.ru/wp-content/uploads/2026/10/novost_usadba_1350h1350.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 1350,
+      "height": 1350
+    },
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/2026/10/02/bahrushinskij-muzej-prinimaet-uchastnikov-14-sezona-olimpiady-muzei-parki-usadby/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "Р-Н-03",
+    "title": "Фонды Бахрушинского театрального музея переезжают в новое высокотехнологичное фондохранилище",
+    "url": "https://www.bakhrushinmuseum.ru/2026/09/24/fondy-bahrushinskogo-teatralnogo-mu/",
+    "publishedOn": "2026-09-24",
+    "image": {
+      "src": "assets/content/news-03.jpg",
+      "alt": "Фонды Бахрушинского театрального музея переезжают в новое высокотехнологичное фондохранилище",
+      "sourceUrl": "https://www.bakhrushinmuseum.ru/wp-content/uploads/2025/05/unnamed-file-4.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 3896,
+      "height": 3896
+    },
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/2026/09/24/fondy-bahrushinskogo-teatralnogo-mu/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  }
+]

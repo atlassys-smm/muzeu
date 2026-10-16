@@ -1,0 +1,38 @@
+{
+  "id": "bakhrushin-museum",
+  "name": "Государственный центральный театральный музей имени А. А. Бахрушина",
+  "logo": {
+    "src": "assets/references/logo-transparent.svg",
+    "alt": "Бахрушинский театральный музей",
+    "sourceUrl": "https://www.bakhrushinmuseum.ru/wp-content/uploads/2020/04/bm_logo_full.jpg",
+    "kind": "derived",
+    "notes": "Подготовленная ранее прозрачная версия логотипа; исходный вектор бренда не получен.",
+    "viewBox": "0 0 2176 1112"
+  },
+  "address": "115054, Москва, ул. Бахрушина, д. 31/12, стр. 1",
+  "metro": "Павелецкая",
+  "mainPlaceId": "Р-О-01",
+  "phones": [
+    {
+      "label": "Справки и заказ экскурсий",
+      "display": "+7 (499) 484-77-77",
+      "href": "tel:+74994847777"
+    },
+    {
+      "label": "Для регионов",
+      "display": "8 800 777-74-84",
+      "href": "tel:88007777484"
+    }
+  ],
+  "email": null,
+  "visitingHours": null,
+  "sources": [
+    {
+      "url": "https://www.bakhrushinmuseum.ru/",
+      "checkedAt": "2026-10-15"
+    }
+  ],
+  "notes": [
+    "Главный дом закрыт на реставрацию с 21 марта 2022 года по сообщению сайта. Единого расписания филиалов нет."
+  ]
+}

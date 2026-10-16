@@ -1,0 +1,19 @@
+[
+  {
+    "id": "decorative-art",
+    "title": "Коллекция",
+    "url": "https://www.bakhrushinmuseum.ru/collections/",
+    "catalogUrl": "https://collectiononline.bakhrushinmuseum.ru/",
+    "description": "Эскизы декораций и костюмов, театральные портреты, афиши, программы и мемориальные предметы — познакомьтесь с коллекцией Бахрушинского музея.",
+    "descriptionKind": "editorial",
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/collection/otdel-dekoratsionno-izobrazitelnyih-materialov/",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "notes": [
+      "Предметы используются в декоративной композиции; интерактивный каталог находится на отдельной странице."
+    ]
+  }
+]

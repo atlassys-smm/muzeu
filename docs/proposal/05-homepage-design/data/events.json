@@ -1,0 +1,356 @@
+[
+  {
+    "id": "Р-С-01",
+    "title": "Сборная экскурсия «В гостях у Майи Плисецкой и Родиона Щедрина» 6+",
+    "url": "https://www.bakhrushinmuseum.ru/event/sbornaya-ekskursiya-v-gostyah-u-maji-pliseczkoj-i-rodiona-shhedrina-6/",
+    "typeId": "tour",
+    "ageRestriction": 6,
+    "startsOn": "2026-10-07",
+    "endsOn": "2026-12-30",
+    "sessionTime": null,
+    "timezone": "Europe/Moscow",
+    "placeId": "Р-О-03",
+    "image": {
+      "src": "assets/references/event-plis.jpg",
+      "alt": "Сборная экскурсия «В гостях у Майи Плисецкой и Родиона Щедрина» 6+",
+      "sourceUrl": "https://www.bakhrushinmuseum.ru/wp-content/uploads/2025/01/leb_5347-kvadrat.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 2329,
+      "height": 2329
+    },
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/event/sbornaya-ekskursiya-v-gostyah-u-maji-pliseczkoj-i-rodiona-shhedrina-6/",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "url": "https://www.bakhrushinmuseum.ru/timetable/",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "notes": [
+      "Период не означает ежедневное наличие сеансов.",
+      "На странице события: с 20 октября не работает лифт, подъём на 6-й этаж по лестнице; срок окончания ремонта не указан."
+    ]
+  },
+  {
+    "id": "Р-С-02",
+    "title": "Коллективная выставка художников ТСХ «Московиты» «Магия ручной работы» г. Зарайск 6+",
+    "url": "https://www.bakhrushinmuseum.ru/event/kollektivnaya-vystavka-hudozhnikov-tsh-moskovity-magiya-ruchnoj-raboty-6/",
+    "typeId": "exhibition",
+    "ageRestriction": 6,
+    "startsOn": "2026-10-07",
+    "endsOn": "2026-12-30",
+    "sessionTime": null,
+    "timezone": "Europe/Moscow",
+    "placeId": "Р-О-04",
+    "image": {
+      "src": "assets/references/event-art.png",
+      "alt": "Коллективная выставка художников ТСХ «Московиты» «Магия ручной работы» г. Зарайск 6+",
+      "sourceUrl": "https://www.bakhrushinmuseum.ru/wp-content/uploads/2026/02/vystavka-magiya-ruchnoj-raboty.-zarajsk-kv.png",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 1114,
+      "height": 1114
+    },
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/event/kollektivnaya-vystavka-hudozhnikov-tsh-moskovity-magiya-ruchnoj-raboty-6/",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "url": "https://www.bakhrushinmuseum.ru/timetable/",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "notes": [
+      "Период не означает ежедневное наличие сеансов."
+    ]
+  },
+  {
+    "id": "Р-С-03",
+    "title": "Сборная экскурсия «Творческий путь актера Щепкина» и выставка «Пров Садовский. Мастер серьезного комизма» 6+",
+    "url": "https://www.bakhrushinmuseum.ru/event/sbornaya-ekskursiya-po-domu-muzeyu-m-s-shhepkina-i-vystavke-prov-sadovskij-master-sereznogo-komizma-6/",
+    "typeId": "tour",
+    "ageRestriction": 6,
+    "startsOn": "2026-10-07",
+    "endsOn": "2026-11-06",
+    "sessionTime": null,
+    "timezone": "Europe/Moscow",
+    "placeId": "Р-О-02",
+    "image": {
+      "src": "assets/references/event-schepkin.jpg",
+      "alt": "Сборная экскурсия «Творческий путь актера Щепкина» и выставка «Пров Садовский. Мастер серьезного комизма» 6+",
+      "sourceUrl": "https://www.bakhrushinmuseum.ru/wp-content/uploads/2026/08/prov-sadovskijj-kv.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 2432,
+      "height": 2432
+    },
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/event/sbornaya-ekskursiya-po-domu-muzeyu-m-s-shhepkina-i-vystavke-prov-sadovskij-master-sereznogo-komizma-6/",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "url": "https://www.bakhrushinmuseum.ru/timetable/",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "notes": [
+      "Период не означает ежедневное наличие сеансов.",
+      "Период экскурсии до 6 ноября; срок отдельной выставки не подменяет срок экскурсии."
+    ]
+  },
+  {
+    "id": "Р-С-04",
+    "title": "Спектакль «Эй, кто-нибудь» 12+",
+    "url": "https://www.bakhrushinmuseum.ru/event/spektakl-ej-kto-nibud-12/",
+    "typeId": "performance",
+    "ageRestriction": 12,
+    "startsOn": "2026-10-30",
+    "endsOn": "2026-10-30",
+    "sessionTime": "19:00",
+    "timezone": "Europe/Moscow",
+    "placeId": "Р-О-02",
+    "image": {
+      "src": "assets/references/event-play.jpg",
+      "alt": "Спектакль «Эй, кто-нибудь» 12+",
+      "sourceUrl": "https://www.bakhrushinmuseum.ru/wp-content/uploads/2026/09/ej-kto-nibud-kv.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 1080,
+      "height": 1080
+    },
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/event/spektakl-ej-kto-nibud-12/",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "url": "https://www.bakhrushinmuseum.ru/timetable/",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "Р-С-05",
+    "title": "Спектакль «Цветы запоздалые» 12+",
+    "url": "https://www.bakhrushinmuseum.ru/event/spektakl-czvety-zapozdalye-12/",
+    "typeId": "performance",
+    "ageRestriction": 12,
+    "startsOn": "2026-10-24",
+    "endsOn": "2026-10-24",
+    "sessionTime": "18:00",
+    "timezone": "Europe/Moscow",
+    "placeId": "Р-О-02",
+    "image": {
+      "src": "assets/references/event-play-flowers.jpeg",
+      "alt": "Спектакль «Цветы запоздалые» 12+",
+      "sourceUrl": "https://www.bakhrushinmuseum.ru/wp-content/uploads/2025/07/czvety-osnovnoe-foto-kvadrat.jpeg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 1567,
+      "height": 1567
+    },
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/event/spektakl-czvety-zapozdalye-12/",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "url": "https://www.bakhrushinmuseum.ru/timetable/",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "Р-С-06",
+    "title": "Спектакль «В поисках любви» 16+",
+    "url": "https://www.bakhrushinmuseum.ru/event/spektakl-v-poiskah-lyubvi-16/",
+    "typeId": "performance",
+    "ageRestriction": 16,
+    "startsOn": "2026-10-25",
+    "endsOn": "2026-10-25",
+    "sessionTime": "17:00",
+    "timezone": "Europe/Moscow",
+    "placeId": "Р-О-02",
+    "image": {
+      "src": "assets/references/event-play-love.jpg",
+      "alt": "Спектакль «В поисках любви» 16+",
+      "sourceUrl": "https://www.bakhrushinmuseum.ru/wp-content/uploads/2026/05/v-poiskah-lyubvi-kv.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 2160,
+      "height": 2160
+    },
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/event/spektakl-v-poiskah-lyubvi-16/",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "url": "https://www.bakhrushinmuseum.ru/timetable/",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "Р-С-07",
+    "title": "Спектакль «… про Левитана написать никогда не поздно» 16+",
+    "url": "https://www.bakhrushinmuseum.ru/event/spektakl-pro-levitana-napisat-nikogda-ne-pozdno-16/",
+    "typeId": "performance",
+    "ageRestriction": 16,
+    "startsOn": "2026-10-31",
+    "endsOn": "2026-10-31",
+    "sessionTime": "19:00",
+    "timezone": "Europe/Moscow",
+    "placeId": "Р-О-02",
+    "image": {
+      "src": "assets/references/event-play-levitan.png",
+      "alt": "Спектакль «… про Левитана написать никогда не поздно» 16+",
+      "sourceUrl": "https://www.bakhrushinmuseum.ru/wp-content/uploads/2026/09/chehov-siluet-2.png",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 1254,
+      "height": 1254
+    },
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/event/spektakl-pro-levitana-napisat-nikogda-ne-pozdno-16/",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "url": "https://www.bakhrushinmuseum.ru/timetable/",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "id": "Р-С-08",
+    "title": "Сборная экскурсия по постоянной экспозиции «Бахрушины — благотворители и меценаты» г. Зарайск. 6+",
+    "url": "https://www.bakhrushinmuseum.ru/event/sbornaya-ekskursiya-po-postoyannoj-ekspoziczii-bahrushiny-blagotvoriteli-i-meczenaty-g-zarajsk-6/",
+    "typeId": "tour",
+    "ageRestriction": 6,
+    "startsOn": "2026-10-07",
+    "endsOn": "2026-12-30",
+    "sessionTime": null,
+    "timezone": "Europe/Moscow",
+    "placeId": "Р-О-04",
+    "image": {
+      "src": "assets/content/event-08.jpg",
+      "alt": "Сборная экскурсия по постоянной экспозиции «Бахрушины — благотворители и меценаты» г. Зарайск. 6+",
+      "sourceUrl": "https://www.bakhrushinmuseum.ru/wp-content/uploads/2023/02/ekskursiya-blagotvoriteli-i-meczenaty-kvadrat.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 2432,
+      "height": 2432
+    },
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/timetable/",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://www.bakhrushinmuseum.ru/event/sbornaya-ekskursiya-po-postoyannoj-ekspoziczii-bahrushiny-blagotvoriteli-i-meczenaty-g-zarajsk-6/",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "notes": [
+      "Период из афиши не означает ежедневное наличие сеансов."
+    ]
+  },
+  {
+    "id": "Р-С-09",
+    "title": "Мастер-класс «Актёрское мастерство для жизни и выступлений» 16+",
+    "url": "https://www.bakhrushinmuseum.ru/event/master-klass-aktyorskoe-masterstvo-dlya-zhizni-i-vystuplenij-16/",
+    "typeId": "workshop",
+    "ageRestriction": 16,
+    "startsOn": "2026-10-14",
+    "endsOn": "2026-10-31",
+    "sessionTime": null,
+    "timezone": "Europe/Moscow",
+    "placeId": "Р-О-02",
+    "image": {
+      "src": "assets/content/event-09.jpeg",
+      "alt": "Мастер-класс «Актёрское мастерство для жизни и выступлений» 16+",
+      "sourceUrl": "https://www.bakhrushinmuseum.ru/wp-content/uploads/2024/07/master-klass-urok-«akterskoe-masterstvo-dlya-zhizni-1.jpeg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 2560,
+      "height": 2560
+    },
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/timetable/",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://www.bakhrushinmuseum.ru/event/master-klass-aktyorskoe-masterstvo-dlya-zhizni-i-vystuplenij-16/",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "notes": [
+      "Период из афиши не означает ежедневное наличие сеансов."
+    ]
+  },
+  {
+    "id": "Р-С-10",
+    "title": "Посещение экспозиции «Творческая мастерская театрального художника Давида Боровского» включая выставку «Эдуард Кочергин, Канун 90» 12+",
+    "url": "https://www.bakhrushinmuseum.ru/event/poseshhenie-ekspoziczii-tvorcheskaya-masterskaya-teatralnogo-hudozhnika-davida-borovskogo-bilet-vklyuchaet-poseshhenie-vystavki-eduard-kochergin-kanun-90-12/",
+    "typeId": "exposition",
+    "ageRestriction": 12,
+    "startsOn": "2026-10-16",
+    "endsOn": "2027-03-07",
+    "sessionTime": null,
+    "timezone": "Europe/Moscow",
+    "placeId": "Р-О-05",
+    "image": {
+      "src": "assets/content/event-10.jpg",
+      "alt": "Посещение экспозиции «Творческая мастерская театрального художника Давида Боровского» включая выставку «Эдуард Кочергин, Канун 90» 12+",
+      "sourceUrl": "https://www.bakhrushinmuseum.ru/wp-content/uploads/2025/10/1ae_vid-postoyannoj-ekspoziczii-muzeya-masterskoj-davida-borovskogo.-oktyabr-2025..jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 4128,
+      "height": 4128
+    },
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/timetable/",
+        "checkedAt": "2026-10-16"
+      },
+      {
+        "url": "https://www.bakhrushinmuseum.ru/event/poseshhenie-ekspoziczii-tvorcheskaya-masterskaya-teatralnogo-hudozhnika-davida-borovskogo-bilet-vklyuchaet-poseshhenie-vystavki-eduard-kochergin-kanun-90-12/",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "notes": [
+      "Период из афиши не означает ежедневное наличие сеансов."
+    ]
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "id": "Р-О-01",
+    "title": "Главный дом",
+    "groups": [
+      "quarter",
+      "branches"
+    ],
+    "url": "https://www.bakhrushinmuseum.ru/branch/gctm/",
+    "address": "Москва, ул. Бахрушина, д. 31/12, стр. 1",
+    "addressStatus": "published",
+    "description": "Неоготический особняк основателя музея и история его театрального собрания",
+    "image": {
+      "src": "assets/references/place-main.jpg",
+      "alt": "Главный дом Бахрушинского музея",
+      "sourceUrl": "https://www.bakhrushinmuseum.ru/wp-content/uploads/2016/03/bachroushin.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 250,
+      "height": 250
+    },
+    "badgeIds": [],
+    "visitingHours": null,
+    "notes": [
+      "На сайте размещено сообщение о закрытии на реставрацию с 21.03.2022; не писать «Открыто»"
+    ],
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/branch/gctm/",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "aliases": [
+      "Р-К-02"
+    ],
+    "quarterTitle": "Дом-музей Бахрушина",
+    "descriptionKind": "editorial"
+  },
+  {
+    "id": "Р-О-02",
+    "title": "Дом-музей М.С. Щепкина",
+    "groups": [
+      "branches"
+    ],
+    "url": "https://www.bakhrushinmuseum.ru/branch/dom-muzey-m-s-shhepkina/",
+    "address": "Москва, ул. Щепкина, д. 47, стр. 2",
+    "addressStatus": "published",
+    "description": null,
+    "image": {
+      "src": "assets/references/place-schepkin.jpg",
+      "alt": "Дом-музей М. С. Щепкина",
+      "sourceUrl": "https://www.bakhrushinmuseum.ru/wp-content/uploads/2016/03/schepkin.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 250,
+      "height": 250
+    },
+    "badgeIds": [],
+    "visitingHours": null,
+    "notes": [
+      "Бейджи удобств не подтверждены"
+    ],
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/branch/dom-muzey-m-s-shhepkina/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "Р-О-03",
+    "title": "Музей-квартира М.М. Плисецкой",
+    "groups": [
+      "branches"
+    ],
+    "url": "https://www.bakhrushinmuseum.ru/branch/dmp/",
+    "address": "Москва, ул. Тверская, д. 25/9, кв. 31, 2 подъезд, вход со стороны Мамоновского переулка",
+    "addressStatus": "published",
+    "description": null,
+    "image": {
+      "src": "assets/content/place-plis.jpg",
+      "alt": "Майя Плисецкая, кадр из фильма «Анна Каренина»",
+      "sourceUrl": "https://www.bakhrushinmuseum.ru/wp-content/uploads/2024/10/betsi-pliseczkaya-m.m.-kadr-iz-filma.-anna-karenina-1966-1967-gg..jpg",
+      "kind": "thematic",
+      "author": null,
+      "license": null,
+      "notes": "Тематическая иллюстрация со страницы филиала, не фотография здания.",
+      "width": 670,
+      "height": 670
+    },
+    "badgeIds": [],
+    "visitingHours": null,
+    "notes": [
+      "См. предупреждение о лифте у Р-С-01"
+    ],
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/branch/dmp/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "Р-О-04",
+    "title": "Бахрушинский театральный музей. Зарайск",
+    "groups": [
+      "branches"
+    ],
+    "url": "https://www.bakhrushinmuseum.ru/branch/teatralnyiy-muzey-v-zarayske/",
+    "address": "Зарайск, ул. Красноармейская, д. 51",
+    "addressStatus": "published",
+    "description": null,
+    "image": {
+      "src": "assets/content/place-zaraysk.jpg",
+      "alt": "Здание Бахрушинского театрального музея в Зарайске",
+      "sourceUrl": "https://www.bakhrushinmuseum.ru/wp-content/uploads/2024/01/zarajsk_kvadrat.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": "Фотография здания из публикации музея от 25.01.2024; не портрет из списка филиалов.",
+      "width": 960,
+      "height": 960
+    },
+    "badgeIds": [],
+    "visitingHours": null,
+    "notes": [
+      "Фотография здания найдена в публикации музея от 25.01.2024. Не относится к московскому кварталу."
+    ],
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/branch/teatralnyiy-muzey-v-zarayske/",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "url": "https://www.bakhrushinmuseum.ru/2024/01/25/bahrushinskij-teatralnyj-muzej-priglashaet-priobshhitsya-k-naslediyu-bahrushinyh-v-zarajske/",
+        "checkedAt": "2026-10-16"
+      }
+    ]
+  },
+  {
+    "id": "Р-К-01",
+    "title": "Музей истоков русского театра",
+    "groups": [
+      "quarter"
+    ],
+    "url": null,
+    "address": "Москва, ул. Бахрушина, д. 29",
+    "addressStatus": "published",
+    "description": "История рождения русского театра — в историческом особняке на улице Бахрушина",
+    "descriptionKind": "editorial",
+    "image": {
+      "src": "assets/references/quarter-29.jpg",
+      "alt": "Музей истоков русского театра",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bakhrushina_street,_29.jpg",
+      "kind": "historical",
+      "author": "Stolbovsky",
+      "license": "CC BY-SA 4.0",
+      "notes": "Снимок 2015 года до реставрации; открытие не подтверждено.",
+      "width": 4757,
+      "height": 3100
+    },
+    "badgeIds": [],
+    "visitingHours": null,
+    "notes": [
+      "Снимок 2015 года до реставрации; открытие не подтверждено."
+    ],
+    "sources": [
+      {
+        "url": "https://www.interfax.ru/culture/932724",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bakhrushina_street,_29.jpg",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "Р-К-03",
+    "title": "Музей детского и кукольного театров",
+    "groups": [
+      "quarter"
+    ],
+    "url": null,
+    "address": "Москва, ул. Бахрушина, д. 27",
+    "addressStatus": "published",
+    "description": "История детского театра и искусства театральной куклы",
+    "descriptionKind": "editorial",
+    "image": {
+      "src": "assets/references/quarter-27.jpg",
+      "alt": "Музей детского и кукольного театров",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bakhrushina_street,_27_1.jpg",
+      "kind": "historical",
+      "author": "Stolbovsky",
+      "license": "CC BY-SA 4.0",
+      "notes": "Снимок 2015 года до реставрации; открытие не подтверждено.",
+      "width": 4663,
+      "height": 3274
+    },
+    "badgeIds": [],
+    "visitingHours": null,
+    "notes": [
+      "Снимок 2015 года до реставрации; открытие не подтверждено."
+    ],
+    "sources": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bakhrushina_street,_27_1.jpg",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "url": "https://www.theartnewspaper.ru/posts/20240125-gcky/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "Р-К-04",
+    "title": "Детский центр",
+    "groups": [
+      "quarter"
+    ],
+    "url": "https://www.bakhrushinmuseum.ru/2025/05/30/bahrushinskij-teatralnyj-muzej-na-intermuzee-2025-innovaczii-v-obrazovanii-nasledie-v-dejstvii-teatr-kak-put-k-kulture/",
+    "address": "Москва, ул. Бахрушина, д. 31/12, стр. 2",
+    "addressStatus": "inferred",
+    "description": "Знакомство с театральными профессиями через игру, мастер-классы и подготовку собственного спектакля",
+    "descriptionKind": "editorial",
+    "image": {
+      "src": "assets/references/quarter-wing.jpg",
+      "alt": "Исторический флигель усадьбы Бахрушина, фрагмент фасада, 2018 год",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Усадьба_Бахрушина_А._А._(государственный_центральный_музей_театрального_искусства),_флигель_(43066143514).jpg",
+      "width": 1024,
+      "height": 683,
+      "kind": "candidate",
+      "author": "Andrey Filippov",
+      "license": "CC BY 2.0",
+      "notes": "Временный кандидат для макета: флигель усадьбы, 29.07.2018. Номер строения и связь снимка с Детским центром не подтверждены; не подписывать как точную фотографию центра."
+    },
+    "badgeIds": [],
+    "visitingHours": null,
+    "notes": [
+      "Адрес — рабочее сопоставление; точная фотография здания не установлена.",
+      "Фотографии строения 2 подписаны в приложении к документу 2016 года на ГАРАНТ, но файл изображения получить не удалось. До подтверждения используем явно отмеченный кандидат — исторический флигель усадьбы."
+    ],
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/2025/05/30/bahrushinskij-teatralnyj-muzej-na-intermuzee-2025-innovaczii-v-obrazovanii-nasledie-v-dejstvii-teatr-kak-put-k-kulture/",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "url": "https://base.garant.ru/71346126/de40175ab12d04d68f792b5b742a18fc/",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "url": "https://creativecommons.org/licenses/by/2.0/",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Усадьба_Бахрушина_А._А._(государственный_центральный_музей_театрального_искусства",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "Р-К-05",
+    "title": "Театральная лаборатория / Каретный сарай",
+    "groups": [
+      "quarter"
+    ],
+    "url": "https://www.bakhrushinmuseum.ru/karetnyiy-saray/",
+    "address": "Москва, ул. Бахрушина, д. 31/12, стр. 3",
+    "addressStatus": "published",
+    "description": "Экспериментальное театральное пространство для постановок, лекций и мастер-классов",
+    "descriptionKind": "editorial",
+    "image": {
+      "src": "assets/references/quarter-laboratory-concept.jpg",
+      "alt": "Театральная лаборатория / Каретный сарай",
+      "sourceUrl": "https://cdn-st2.vigbo.com/u53873/66414/blog/6393000/6072949/section/0bd7571cebc8eb9d28700f2dc219e600.jpg",
+      "kind": "concept",
+      "author": "Бюро А4",
+      "license": null,
+      "notes": "Проект Бюро А4, 2021; не фотография реализованного интерьера. Текущие условия доступности не установлены.",
+      "width": 2000,
+      "height": 1414
+    },
+    "badgeIds": [],
+    "visitingHours": null,
+    "notes": [
+      "Проект Бюро А4, 2021; не фотография реализованного интерьера. Текущие условия доступности не установлены."
+    ],
+    "sources": [
+      {
+        "url": "https://a4arch.ru/interer-karetnogo-saraya-teatralnogo-muzeya-im-aa-bahrushina",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "url": "https://cdn-st2.vigbo.com/u53873/66414/blog/6393000/6072949/section/0bd7571cebc8eb9d28700f2dc219e600.jpg",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "url": "https://www.bakhrushinmuseum.ru/karetnyiy-saray/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "Р-К-06",
+    "title": "Центр театральной истории",
+    "groups": [
+      "quarter"
+    ],
+    "url": null,
+    "address": "Москва, ул. Татарская, д. 20",
+    "addressStatus": "published",
+    "description": "Выставочное и исследовательское пространство Бахрушинского музея на Татарской улице",
+    "descriptionKind": "editorial",
+    "image": {
+      "src": "assets/references/quarter-center.jpg",
+      "alt": "Центр театральной истории",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bahrushin-museum-center-teatralnoi-istorii-fall-day-view-from-sadovoe-koltso.jpg",
+      "kind": "published",
+      "author": "Alxklg1",
+      "license": "CC0 1.0",
+      "notes": "Проведение мероприятий не подтверждает свободный ежедневный вход. Доступ к фондам ограничен до завершения переезда в 2027 году.",
+      "width": 3070,
+      "height": 2047
+    },
+    "badgeIds": [],
+    "visitingHours": null,
+    "notes": [
+      "Проведение мероприятий не подтверждает свободный ежедневный вход. Доступ к фондам ограничен до завершения переезда в 2027 году."
+    ],
+    "sources": [
+      {
+        "url": "https://teatralnyy-muzey-bakhrush.timepad.ru/event/3669096/",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Bahrushin-museum-center-teatralnoi-istorii-fall-day-view-from-sadovoe-koltso.jpg",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "url": "https://www.bakhrushinmuseum.ru/2025/05/17/fondy-bahrushinskogo-muzeya-pereezzhayut-v-novoe-vysokotehnologicheskoe-fondohranilishhe/",
+        "checkedAt": "2026-10-15"
+      },
+      {
+        "url": "https://www.bakhrushinmuseum.ru/2026/09/24/fondy-bahrushinskogo-teatralnogo-mu/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "Р-О-05",
+    "title": "Мемориальный музей «Творческая мастерская театрального художника Давида Боровского»",
+    "groups": [
+      "branches"
+    ],
+    "url": "https://www.bakhrushinmuseum.ru/branch/mmb/",
+    "address": "Москва, Б. Афанасьевский переулок, д. 3, стр. 3, подъезд 3, 5 этаж",
+    "addressStatus": "published",
+    "description": null,
+    "image": {
+      "src": "assets/content/place-borovsky.jpg",
+      "alt": "Давид Боровский. Фотография В. П. Баженова",
+      "sourceUrl": "https://www.bakhrushinmuseum.ru/wp-content/uploads/2016/08/kp_330320_29_fsd_115875_fotografiya_bazhenov_v_p_borovskij_d_l_portret_nano_2k.jpg",
+      "kind": "thematic",
+      "author": null,
+      "license": null,
+      "notes": "Портрет со страницы списка филиалов; не фотография здания.",
+      "width": 2048,
+      "height": 2048
+    },
+    "badgeIds": [],
+    "visitingHours": null,
+    "notes": [],
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/branches/",
+        "checkedAt": "2026-10-16"
+      }
+    ]
+  }
+]

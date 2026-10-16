@@ -1,6 +1,8 @@
 site_name: Цифровая экосистема Музея
 site_description: Документы закупки и подготовка предложения
 site_url: http://127.0.0.1:8000/
+exclude_docs: |
+  **/AGENTS.md
 theme:
   name: material
   language: ru
@@ -20,9 +22,15 @@ plugins:
 - search:
     lang: ru
 markdown_extensions:
+- admonition
 - tables
 - attr_list
 - md_in_html
+- pymdownx.superfences:
+    custom_fences:
+    - name: mermaid
+      class: mermaid
+      format: !!python/name:pymdownx.superfences.fence_code_format
 - toc:
     permalink: true
     toc_depth: 4
@@ -119,6 +127,10 @@ nav:
     - Критерий и оценка: proposal/05-homepage-design/criterion.md
     - Матрица соответствия: proposal/05-homepage-design/compliance.md
     - Материалы заявки: proposal/05-homepage-design/result.md
+    - Экраны, сущности и действия: proposal/05-homepage-design/screens.md
+    - Дизайн код: proposal/05-homepage-design/references.md
+    - Референсные сайты: proposal/05-homepage-design/reference-sites.md
+    - Наполнение главной страницы: proposal/05-homepage-design/content.md
     - 'Приложение: Макеты': proposal/05-homepage-design/mockups.md
 extra_javascript:
 - javascripts/document-redirects.js

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "promo-olympiad",
+    "title": "Музеи. Парки. Усадьбы",
+    "description": "Выполняйте задания олимпиады в филиалах Бахрушинского музея. 14 сезон — до 31 марта 2027 года",
+    "textKind": "editorial",
+    "newsId": "Р-Н-02",
+    "buttonLabel": "Как участвовать",
+    "url": "https://www.bakhrushinmuseum.ru/2026/10/02/bahrushinskij-muzej-prinimaet-uchastnikov-14-sezona-olimpiady-muzei-parki-usadby/",
+    "image": {
+      "src": "assets/content/promo-olympiad.jpg",
+      "alt": "Музеи. Парки. Усадьбы. 14 сезон",
+      "sourceUrl": "https://www.bakhrushinmuseum.ru/wp-content/uploads/2026/10/slajder_usadba_841h400.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 841,
+      "height": 400
+    },
+    "publicationStartsOn": null,
+    "publicationEndsOn": null,
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/2026/10/02/bahrushinskij-muzej-prinimaet-uchastnikov-14-sezona-olimpiady-muzei-parki-usadby/",
+        "checkedAt": "2026-10-15"
+      }
+    ],
+    "notes": [
+      "Для Дома Щепкина в источнике указано закрытие с 10 ноября по 10 января для новогоднего мероприятия; полные условия — на странице материала."
+    ]
+  }
+]

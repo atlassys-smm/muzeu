@@ -1,0 +1,377 @@
+[
+  {
+    "id": "home",
+    "label": "Главная",
+    "url": "https://www.bakhrushinmuseum.ru/",
+    "groups": [
+      "header"
+    ],
+    "status": "published",
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "events",
+    "label": "Афиша",
+    "url": "https://www.bakhrushinmuseum.ru/timetable/",
+    "groups": [
+      "main",
+      "footer"
+    ],
+    "status": "published",
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "tickets",
+    "label": "Купить билет",
+    "url": "https://www.bakhrushinmuseum.ru/buy-tickets/#/afisha/event",
+    "groups": [
+      "header"
+    ],
+    "status": "published",
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "collection",
+    "label": "Коллекция",
+    "url": "https://www.bakhrushinmuseum.ru/collections/",
+    "groups": [
+      "main",
+      "footer"
+    ],
+    "status": "published",
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "places",
+    "label": "Филиалы и здания",
+    "url": "https://www.bakhrushinmuseum.ru/branches/",
+    "groups": [
+      "main",
+      "footer"
+    ],
+    "status": "published",
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "news",
+    "label": "Новости",
+    "url": "https://www.bakhrushinmuseum.ru/news/",
+    "groups": [
+      "main",
+      "footer"
+    ],
+    "status": "published",
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "subscribe",
+    "label": "Подписаться на рассылку",
+    "url": "https://www.bakhrushinmuseum.ru/subscribe/",
+    "groups": [
+      "subscription"
+    ],
+    "status": "published",
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "shop",
+    "label": "Магазин",
+    "url": "https://shop.bakhrushinmuseum.ru/",
+    "groups": [
+      "ecosystem"
+    ],
+    "status": "published",
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "media",
+    "label": "Медиа",
+    "url": null,
+    "groups": [
+      "ecosystem"
+    ],
+    "status": "unconfirmed",
+    "sources": []
+  },
+  {
+    "id": "encyclopedia",
+    "label": "Театральная энциклопедия",
+    "url": null,
+    "groups": [
+      "ecosystem"
+    ],
+    "status": "unconfirmed",
+    "sources": []
+  },
+  {
+    "id": "account",
+    "label": "Личный кабинет",
+    "url": null,
+    "groups": [
+      "header"
+    ],
+    "status": "unconfirmed",
+    "sources": []
+  },
+  {
+    "id": "sitemap",
+    "label": "Карта сайта",
+    "url": null,
+    "groups": [
+      "footer"
+    ],
+    "status": "unconfirmed",
+    "sources": []
+  },
+  {
+    "id": "consents",
+    "label": "Согласия",
+    "url": null,
+    "groups": [
+      "footer"
+    ],
+    "status": "unconfirmed",
+    "sources": []
+  },
+  {
+    "id": "culture",
+    "label": "Культура.РФ",
+    "url": "https://www.culture.ru/",
+    "groups": [
+      "footer"
+    ],
+    "status": "published",
+    "image": {
+      "src": "assets/content/official-culture.png",
+      "alt": "Культура.РФ",
+      "sourceUrl": "https://www.bakhrushinmuseum.ru/wp-content/uploads/2025/12/logo-temnoe-rus.png",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 1037,
+      "height": 129
+    },
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "social-1",
+    "label": "ВКонтакте",
+    "url": "https://vk.com/bahrushinmuseum",
+    "groups": [
+      "footer",
+      "social"
+    ],
+    "status": "published",
+    "image": {
+      "src": "assets/content/social-vk.svg",
+      "alt": "ВКонтакте",
+      "sourceUrl": "https://www.bakhrushinmuseum.ru/wp-content/uploads/2024/01/vk_compact_logo_2021-present-1.svg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "viewBox": "0 0 48 48"
+    },
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "social-2",
+    "label": "MAX",
+    "url": "https://max.ru/bahrushinmuseum",
+    "groups": [
+      "footer",
+      "social"
+    ],
+    "status": "published",
+    "image": {
+      "src": "assets/content/social-max.svg",
+      "alt": "MAX",
+      "sourceUrl": "https://www.bakhrushinmuseum.ru/wp-content/uploads/2026/03/max.svg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "viewBox": "0 0 1000 1000"
+    },
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "social-3",
+    "label": "Дзен",
+    "url": "https://dzen.ru/bahrushinmuseum",
+    "groups": [
+      "footer",
+      "social"
+    ],
+    "status": "published",
+    "image": {
+      "src": "assets/content/social-dzen.png",
+      "alt": "Дзен",
+      "sourceUrl": "https://www.bakhrushinmuseum.ru/wp-content/uploads/2023/07/512px-yandex_zen_logo_icon.svg.png",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 512,
+      "height": 512
+    },
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "official-1",
+    "label": "Минкультуры России",
+    "url": "https://culture.gov.ru/",
+    "groups": [
+      "footer",
+      "official"
+    ],
+    "status": "published",
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "official-2",
+    "label": "Официальные документы",
+    "url": "https://www.bakhrushinmuseum.ru/oficialnye_dokumenty/",
+    "groups": [
+      "footer",
+      "official"
+    ],
+    "status": "published",
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "official-3",
+    "label": "Годовые отчёты",
+    "url": "https://www.bakhrushinmuseum.ru/godovyie-otchyotyi/",
+    "groups": [
+      "footer",
+      "official"
+    ],
+    "status": "published",
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "official-4",
+    "label": "Профилактика коррупции",
+    "url": "https://www.bakhrushinmuseum.ru/profilaktika-korruptsii/",
+    "groups": [
+      "footer",
+      "official"
+    ],
+    "status": "published",
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "legal-1",
+    "label": "Политика обработки ПДн",
+    "url": "https://www.bakhrushinmuseum.ru/politika-obrabotki-personalnyh-dannyh/",
+    "groups": [
+      "footer",
+      "legal"
+    ],
+    "status": "published",
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "legal-2",
+    "label": "Правила приобретения и возврата билетов",
+    "url": "https://www.bakhrushinmuseum.ru/polzovatelskoe-soglashenie/",
+    "groups": [
+      "footer",
+      "legal"
+    ],
+    "status": "published",
+    "sources": [
+      {
+        "url": "https://www.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-15"
+      }
+    ]
+  }
+]

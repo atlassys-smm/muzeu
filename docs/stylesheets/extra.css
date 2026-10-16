@@ -61,3 +61,22 @@
 .source-preview strong { display: block; }
 .source-preview p { margin: .65rem 0; white-space: normal; }
 .source-preview a { color: var(--md-typeset-a-color); }
+
+/* Keep long proposal diagrams readable instead of shrinking all labels. */
+.md-typeset .mermaid {
+  overflow: auto;
+  max-height: 80vh;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  padding: 1rem;
+}
+
+/* Inline palette samples; the border keeps white visible on a white page. */
+.md-typeset .color-swatch {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-right: .3em;
+  border: 1px solid #888;
+  border-radius: 50%;
+  vertical-align: -.15em;
+}

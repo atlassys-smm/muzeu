@@ -1,0 +1,566 @@
+[
+  {
+    "id": "Р-Т-01",
+    "title": "Футболка «Иван Билибин. Девушка в пестром сарафане»",
+    "url": "https://shop.bakhrushinmuseum.ru/product/sample-product/%d1%84%d1%83%d1%82%d0%b1%d0%be%d0%bb%d0%ba%d0%b0-%d0%b8%d0%b2%d0%b0%d0%bd-%d0%b1%d0%b8%d0%bb%d0%b8%d0%b1%d0%b8%d0%bd-%d0%b4%d0%b5%d0%b2%d1%83%d1%88%d0%ba%d0%b0-%d0%b2-%d0%bf%d0%b5%d1%81%d1%82%d1%80/",
+    "categoryIds": [
+      "odezhda",
+      "svitshot"
+    ],
+    "price": {
+      "amount": 2999.0,
+      "currency": "RUB",
+      "checkedAt": "2026-10-16"
+    },
+    "availability": null,
+    "image": {
+      "src": "assets/content/product-01.jpg",
+      "alt": "Футболка «Иван Билибин. Девушка в пестром сарафане»",
+      "sourceUrl": "https://shop.bakhrushinmuseum.ru/wp-content/uploads/2026/06/ф00-00000103_3330-768x768.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 768,
+      "height": 768
+    },
+    "sources": [
+      {
+        "url": "https://shop.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "notes": [
+      "Цена — снимок каталога; наличие и размеры не подтверждены."
+    ]
+  },
+  {
+    "id": "Р-Т-02",
+    "title": "Брелок-лента «Иван Билибин. Воины», черный",
+    "url": "https://shop.bakhrushinmuseum.ru/product/sample-product/%d0%b1%d1%80%d0%b5%d0%bb%d0%be%d0%ba-%d0%bb%d0%b5%d0%bd%d1%82%d0%b0-%d0%b8%d0%b2%d0%b0%d0%bd-%d0%b1%d0%b8%d0%bb%d0%b8%d0%b1%d0%b8%d0%bd-%d0%b2%d0%be%d0%b8%d0%bd%d1%8b-%d1%87%d0%b5%d1%80%d0%bd/",
+    "categoryIds": [
+      "aksessuary",
+      "melochi"
+    ],
+    "price": {
+      "amount": 399.0,
+      "currency": "RUB",
+      "checkedAt": "2026-10-16"
+    },
+    "availability": null,
+    "image": {
+      "src": "assets/content/product-02.jpg",
+      "alt": "Брелок-лента «Иван Билибин. Воины», черный",
+      "sourceUrl": "https://shop.bakhrushinmuseum.ru/wp-content/uploads/2026/07/DSC_3356-768x768.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 768,
+      "height": 768
+    },
+    "sources": [
+      {
+        "url": "https://shop.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "notes": [
+      "Цена — снимок каталога; наличие и размеры не подтверждены."
+    ]
+  },
+  {
+    "id": "Р-Т-03",
+    "title": "Сувенирная банкнота «К 100-летию М.М. Плисецкой»",
+    "url": "https://shop.bakhrushinmuseum.ru/product/sample-product/%d1%81%d1%83%d0%b2%d0%b5%d0%bd%d0%b8%d1%80%d0%bd%d0%b0%d1%8f-%d0%b1%d0%b0%d0%bd%d0%ba%d0%bd%d0%be%d1%82%d0%b0-%d0%ba-100-%d0%bb%d0%b5%d1%82%d0%b8%d1%8e-%d0%bc-%d0%bc-%d0%bf%d0%bb%d0%b8%d1%81%d0%b5/",
+    "categoryIds": [
+      "otkrytki",
+      "postery",
+      "suveniry"
+    ],
+    "price": {
+      "amount": 2600.0,
+      "currency": "RUB",
+      "checkedAt": "2026-10-16"
+    },
+    "availability": null,
+    "image": {
+      "src": "assets/content/product-03.png",
+      "alt": "Сувенирная банкнота «К 100-летию М.М. Плисецкой»",
+      "sourceUrl": "https://shop.bakhrushinmuseum.ru/wp-content/uploads/2025/12/129A3095-Photoroom-1-300x300.png",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 300,
+      "height": 300
+    },
+    "sources": [
+      {
+        "url": "https://shop.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "notes": [
+      "Цена — снимок каталога; наличие и размеры не подтверждены."
+    ]
+  },
+  {
+    "id": "Р-Т-04",
+    "title": "Альбом «Князь Сергей Щербатов. Эскизы для оформления Казанского вокзала»",
+    "url": "https://shop.bakhrushinmuseum.ru/product/sample-product/%d0%b0%d0%bb%d1%8c%d0%b1%d0%be%d0%bc-%d0%ba%d0%bd%d1%8f%d0%b7%d1%8c-%d1%81%d0%b5%d1%80%d0%b3%d0%b5%d0%b9-%d1%89%d0%b5%d1%80%d0%b1%d0%b0%d1%82%d0%be%d0%b2-%d1%8d%d1%81%d0%ba%d0%b8%d0%b7%d1%8b-%d0%b4/",
+    "categoryIds": [
+      "catalogs",
+      "knigi"
+    ],
+    "price": {
+      "amount": 799.0,
+      "currency": "RUB",
+      "checkedAt": "2026-10-16"
+    },
+    "availability": null,
+    "image": {
+      "src": "assets/content/product-04.jpg",
+      "alt": "Альбом «Князь Сергей Щербатов. Эскизы для оформления Казанского вокзала»",
+      "sourceUrl": "https://shop.bakhrushinmuseum.ru/wp-content/uploads/2026/09/Щербатов-300x300.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 300,
+      "height": 300
+    },
+    "sources": [
+      {
+        "url": "https://shop.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "notes": [
+      "Цена — снимок каталога; наличие и размеры не подтверждены."
+    ]
+  },
+  {
+    "id": "Р-Т-05",
+    "title": "Брелок-лента «Иван Билибин. Знамя», белый",
+    "url": "https://shop.bakhrushinmuseum.ru/product/sample-product/%d0%b1%d1%80%d0%b5%d0%bb%d0%be%d0%ba-%d0%bb%d0%b5%d0%bd%d1%82%d0%b0-%d0%b8%d0%b2%d0%b0%d0%bd-%d0%b1%d0%b8%d0%bb%d0%b8%d0%b1%d0%b8%d0%bd-%d0%b7%d0%bd%d0%b0%d0%bc%d1%8f-%d0%b1%d0%b5%d0%bb%d1%8b/",
+    "categoryIds": [
+      "aksessuary",
+      "melochi"
+    ],
+    "price": {
+      "amount": 399.0,
+      "currency": "RUB",
+      "checkedAt": "2026-10-16"
+    },
+    "availability": null,
+    "image": {
+      "src": "assets/content/product-05.jpg",
+      "alt": "Брелок-лента «Иван Билибин. Знамя», белый",
+      "sourceUrl": "https://shop.bakhrushinmuseum.ru/wp-content/uploads/2026/07/DSC_3359-768x768.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 768,
+      "height": 768
+    },
+    "sources": [
+      {
+        "url": "https://shop.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "notes": [
+      "Цена — снимок каталога; наличие и размеры не подтверждены."
+    ]
+  },
+  {
+    "id": "Р-Т-06",
+    "title": "Брелок-лента «Иван Билибин. Звери», красный",
+    "url": "https://shop.bakhrushinmuseum.ru/product/sample-product/%d0%b1%d1%80%d0%b5%d0%bb%d0%be%d0%ba-%d0%bb%d0%b5%d0%bd%d1%82%d0%b0-%d0%b8%d0%b2%d0%b0%d0%bd-%d0%b1%d0%b8%d0%bb%d0%b8%d0%b1%d0%b8%d0%bd-%d0%b7%d0%b2%d0%b5%d1%80%d0%b8-%d0%ba%d1%80%d0%b0%d1%81/",
+    "categoryIds": [
+      "aksessuary",
+      "melochi"
+    ],
+    "price": {
+      "amount": 399.0,
+      "currency": "RUB",
+      "checkedAt": "2026-10-16"
+    },
+    "availability": null,
+    "image": {
+      "src": "assets/content/product-06.jpg",
+      "alt": "Брелок-лента «Иван Билибин. Звери», красный",
+      "sourceUrl": "https://shop.bakhrushinmuseum.ru/wp-content/uploads/2026/07/DSC_3363-768x768.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 768,
+      "height": 768
+    },
+    "sources": [
+      {
+        "url": "https://shop.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "notes": [
+      "Цена — снимок каталога; наличие и размеры не подтверждены."
+    ]
+  },
+  {
+    "id": "Р-Т-07",
+    "title": "Плед «Иван Билибин. Петушок», 145х120 см",
+    "url": "https://shop.bakhrushinmuseum.ru/product/sample-product/%d0%bf%d0%bb%d0%b5%d0%b4-%d0%b8%d0%b2%d0%b0%d0%bd-%d0%b1%d0%b8%d0%bb%d0%b8%d0%b1%d0%b8%d0%bd-%d0%bf%d0%b5%d1%82%d1%83%d1%88%d0%be%d0%ba-145%d1%85120-%d1%81%d0%bc/",
+    "categoryIds": [
+      "pled",
+      "tovary-dlya-doma"
+    ],
+    "price": {
+      "amount": 5499.0,
+      "currency": "RUB",
+      "checkedAt": "2026-10-16"
+    },
+    "availability": null,
+    "image": {
+      "src": "assets/content/product-07.jpg",
+      "alt": "Плед «Иван Билибин. Петушок», 145х120 см",
+      "sourceUrl": "https://shop.bakhrushinmuseum.ru/wp-content/uploads/2026/07/6D5A893C-C0EC-300x300.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 300,
+      "height": 300
+    },
+    "sources": [
+      {
+        "url": "https://shop.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "notes": [
+      "Цена — снимок каталога; наличие и размеры не подтверждены."
+    ]
+  },
+  {
+    "id": "Р-Т-08",
+    "title": "Подушка «Иван Билибин. Одноглазый»",
+    "url": "https://shop.bakhrushinmuseum.ru/product/sample-product/%d0%bf%d0%be%d0%b4%d1%83%d1%88%d0%ba%d0%b0-%d0%b8%d0%b2%d0%b0%d0%bd-%d0%b1%d0%b8%d0%bb%d0%b8%d0%b1%d0%b8%d0%bd-%d0%bf%d0%b5%d1%82%d1%83%d1%88%d0%be%d0%ba/",
+    "categoryIds": [
+      "podushki",
+      "tovary-dlya-doma"
+    ],
+    "price": {
+      "amount": 3799.0,
+      "currency": "RUB",
+      "checkedAt": "2026-10-16"
+    },
+    "availability": null,
+    "image": {
+      "src": "assets/content/product-08.jpg",
+      "alt": "Подушка «Иван Билибин. Одноглазый»",
+      "sourceUrl": "https://shop.bakhrushinmuseum.ru/wp-content/uploads/2026/07/89976F66-771C--300x300.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 300,
+      "height": 300
+    },
+    "sources": [
+      {
+        "url": "https://shop.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "notes": [
+      "Цена — снимок каталога; наличие и размеры не подтверждены."
+    ]
+  },
+  {
+    "id": "Р-Т-09",
+    "title": "Футболка детская «Иван Билибин. Пыжики»",
+    "url": "https://shop.bakhrushinmuseum.ru/product/sample-product/%d1%84%d1%83%d1%82%d0%b1%d0%be%d0%bb%d0%ba%d0%b0-%d0%b4%d0%b5%d1%82%d1%81%d0%ba%d0%b0%d1%8f-%d0%b8%d0%b2%d0%b0%d0%bd-%d0%b1%d0%b8%d0%bb%d0%b8%d0%b1%d0%b8%d0%bd-%d0%bf%d1%8b%d0%b6%d0%b8%d0%ba%d0%b8/",
+    "categoryIds": [
+      "detskiye-futbolki",
+      "odezhda",
+      "odezhda-dlya-detej"
+    ],
+    "price": {
+      "amount": 1999.0,
+      "currency": "RUB",
+      "checkedAt": "2026-10-16"
+    },
+    "availability": null,
+    "image": {
+      "src": "assets/content/product-09.jpg",
+      "alt": "Футболка детская «Иван Билибин. Пыжики»",
+      "sourceUrl": "https://shop.bakhrushinmuseum.ru/wp-content/uploads/2026/06/DSC_3334-300x300.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 300,
+      "height": 300
+    },
+    "sources": [
+      {
+        "url": "https://shop.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "notes": [
+      "Цена — снимок каталога; наличие и размеры не подтверждены."
+    ]
+  },
+  {
+    "id": "Р-Т-10",
+    "title": "Мешок для обуви «Иван Билибин. Пыжики»",
+    "url": "https://shop.bakhrushinmuseum.ru/product/sample-product/%d0%bc%d0%b5%d1%88%d0%be%d0%ba-%d0%b4%d0%bb%d1%8f-%d0%be%d0%b1%d1%83%d0%b2%d0%b8-%d0%b8%d0%b2%d0%b0%d0%bd-%d0%b1%d0%b8%d0%bb%d0%b8%d0%b1%d0%b8%d0%bd-%d0%bf%d1%8b%d0%b6%d0%b8%d0%ba%d0%b8/",
+    "categoryIds": [
+      "sumki",
+      "aksessuary",
+      "81"
+    ],
+    "price": {
+      "amount": 1299.0,
+      "currency": "RUB",
+      "checkedAt": "2026-10-16"
+    },
+    "availability": null,
+    "image": {
+      "src": "assets/content/product-10.jpg",
+      "alt": "Мешок для обуви «Иван Билибин. Пыжики»",
+      "sourceUrl": "https://shop.bakhrushinmuseum.ru/wp-content/uploads/2026/06/DSC_3317-768x768.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 768,
+      "height": 768
+    },
+    "sources": [
+      {
+        "url": "https://shop.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "notes": [
+      "Цена — снимок каталога; наличие и размеры не подтверждены."
+    ]
+  },
+  {
+    "id": "Р-Т-11",
+    "title": "Свитшот «Иван Билибин. Девушка в пестром сарафане»",
+    "url": "https://shop.bakhrushinmuseum.ru/product/sample-product/%d1%81%d0%b2%d0%b8%d1%82%d1%88%d0%be%d1%82-%d0%b8%d0%b2%d0%b0%d0%bd-%d0%b1%d0%b8%d0%bb%d0%b8%d0%b1%d0%b8%d0%bd-%d0%b4%d0%b5%d0%b2%d1%83%d1%88%d0%ba%d0%b0-%d0%b2-%d0%bf%d0%b5%d1%81%d1%82%d1%80%d0%be/",
+    "categoryIds": [
+      "odezhda",
+      "svitshot"
+    ],
+    "price": {
+      "amount": 5499.0,
+      "currency": "RUB",
+      "checkedAt": "2026-10-16"
+    },
+    "availability": null,
+    "image": {
+      "src": "assets/content/product-11.jpg",
+      "alt": "Свитшот «Иван Билибин. Девушка в пестром сарафане»",
+      "sourceUrl": "https://shop.bakhrushinmuseum.ru/wp-content/uploads/2026/06/00-00000103-768x768.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 768,
+      "height": 768
+    },
+    "sources": [
+      {
+        "url": "https://shop.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "notes": [
+      "Цена — снимок каталога; наличие и размеры не подтверждены."
+    ]
+  },
+  {
+    "id": "Р-Т-12",
+    "title": "Шоппер «Иван Билибин. Петушок»",
+    "url": "https://shop.bakhrushinmuseum.ru/product/sample-product/%d1%88%d0%be%d0%bf%d0%bf%d0%b5%d1%80-%d0%b8%d0%b2%d0%b0%d0%bd-%d0%b1%d0%b8%d0%bb%d0%b8%d0%b1%d0%b8%d0%bd-%d0%bf%d0%b5%d1%82%d1%83%d1%88%d0%be%d0%ba/",
+    "categoryIds": [
+      "sumki",
+      "shoppery"
+    ],
+    "price": {
+      "amount": 2499.0,
+      "currency": "RUB",
+      "checkedAt": "2026-10-16"
+    },
+    "availability": null,
+    "image": {
+      "src": "assets/content/product-12.jpg",
+      "alt": "Шоппер «Иван Билибин. Петушок»",
+      "sourceUrl": "https://shop.bakhrushinmuseum.ru/wp-content/uploads/2026/06/DSC_3324-768x768.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 768,
+      "height": 768
+    },
+    "sources": [
+      {
+        "url": "https://shop.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "notes": [
+      "Цена — снимок каталога; наличие и размеры не подтверждены."
+    ]
+  },
+  {
+    "id": "Р-Т-13",
+    "title": "Свитшот «Иван Билибин. Воевода», XL",
+    "url": "https://shop.bakhrushinmuseum.ru/product/sample-product/%d1%81%d0%b2%d0%b8%d1%82%d1%88%d0%be%d1%82-%d0%b8%d0%b2%d0%b0%d0%bd-%d0%b1%d0%b8%d0%bb%d0%b8%d0%b1%d0%b8%d0%bd-%d0%b2%d0%be%d0%b5%d0%b2%d0%be%d0%b4%d0%b0-xl/",
+    "categoryIds": [
+      "odezhda",
+      "odezhda-dlya-vzroslykh",
+      "svitshot"
+    ],
+    "price": {
+      "amount": 5499.0,
+      "currency": "RUB",
+      "checkedAt": "2026-10-16"
+    },
+    "availability": null,
+    "image": {
+      "src": "assets/content/product-13.jpg",
+      "alt": "Свитшот «Иван Билибин. Воевода», XL",
+      "sourceUrl": "https://shop.bakhrushinmuseum.ru/wp-content/uploads/2026/06/DSC_3352-768x768.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 768,
+      "height": 768
+    },
+    "sources": [
+      {
+        "url": "https://shop.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "notes": [
+      "Цена — снимок каталога; наличие и размеры не подтверждены."
+    ]
+  },
+  {
+    "id": "Р-Т-14",
+    "title": "Футболка «Иван Билибин. Воевода», XL",
+    "url": "https://shop.bakhrushinmuseum.ru/product/sample-product/%d1%84%d1%83%d1%82%d0%b1%d0%be%d0%bb%d0%ba%d0%b0-%d0%b8%d0%b2%d0%b0%d0%bd-%d0%b1%d0%b8%d0%bb%d0%b8%d0%b1%d0%b8%d0%bd-%d0%b2%d0%be%d0%b5%d0%b2%d0%be%d0%b4%d0%b0-xl/",
+    "categoryIds": [
+      "odezhda",
+      "futbolki"
+    ],
+    "price": {
+      "amount": 2999.0,
+      "currency": "RUB",
+      "checkedAt": "2026-10-16"
+    },
+    "availability": null,
+    "image": {
+      "src": "assets/content/product-14.jpg",
+      "alt": "Футболка «Иван Билибин. Воевода», XL",
+      "sourceUrl": "https://shop.bakhrushinmuseum.ru/wp-content/uploads/2026/06/DSC_3347-768x768.jpg",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 768,
+      "height": 768
+    },
+    "sources": [
+      {
+        "url": "https://shop.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "notes": [
+      "Цена — снимок каталога; наличие и размеры не подтверждены."
+    ]
+  },
+  {
+    "id": "Р-Т-15",
+    "title": "Набор для декупажа «Аванград»",
+    "url": "https://shop.bakhrushinmuseum.ru/product/sample-product/6514/",
+    "categoryIds": [
+      "suveniry",
+      "tvorchestvo"
+    ],
+    "price": {
+      "amount": 1799.0,
+      "currency": "RUB",
+      "checkedAt": "2026-10-16"
+    },
+    "availability": null,
+    "image": {
+      "src": "assets/content/product-15.png",
+      "alt": "Набор для декупажа «Аванград»",
+      "sourceUrl": "https://shop.bakhrushinmuseum.ru/wp-content/uploads/2026/02/14-Photoroom-1-300x300.png",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 300,
+      "height": 300
+    },
+    "sources": [
+      {
+        "url": "https://shop.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "notes": [
+      "Цена — снимок каталога; наличие и размеры не подтверждены."
+    ]
+  },
+  {
+    "id": "Р-Т-16",
+    "title": "Альбом для творчества с наклейками «А. Экстер»",
+    "url": "https://shop.bakhrushinmuseum.ru/product/sample-product/%d0%b0%d0%bb%d1%8c%d0%b1%d0%be%d0%bc-%d0%b4%d0%bb%d1%8f-%d1%82%d0%b2%d0%be%d1%80%d1%87%d0%b5%d1%81%d1%82%d0%b2%d0%b0-%d1%81-%d0%bd%d0%b0%d0%ba%d0%bb%d0%b5%d0%b9%d0%ba%d0%b0%d0%bc%d0%b8-%d0%b0/",
+    "categoryIds": [
+      "suveniry",
+      "tvorchestvo"
+    ],
+    "price": {
+      "amount": 999.0,
+      "currency": "RUB",
+      "checkedAt": "2026-10-16"
+    },
+    "availability": null,
+    "image": {
+      "src": "assets/content/product-16.png",
+      "alt": "Альбом для творчества с наклейками «А. Экстер»",
+      "sourceUrl": "https://shop.bakhrushinmuseum.ru/wp-content/uploads/2026/02/ZAGLUSHKA_01-Photoroom-1.png",
+      "kind": "published",
+      "author": null,
+      "license": null,
+      "notes": null,
+      "width": 817,
+      "height": 817
+    },
+    "sources": [
+      {
+        "url": "https://shop.bakhrushinmuseum.ru/",
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "notes": [
+      "Цена — снимок каталога; наличие и размеры не подтверждены."
+    ]
+  }
+]
